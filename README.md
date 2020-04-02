@@ -1,10 +1,11 @@
 # Labeler_PEC: Automated labeling of potential energy curve (PEC) data
 A Python code to label data whether the given data point contributes to obtaining a good potential energy curve.
 
-# Prerequisites
-
-
 # Current function
+- Plotting related potential energy curves (PECs)
+- Shifting each PEC with respect to a reference PEC
+- Generating a label code for each data point
+- Saving all related data for PECs
 
 # How to cite?
 Please cite this paper when you use Labeler_ActiveSpace code in you research: W. Jeong, S. Stoneburner, D. King, R. Li, A. Walker, R. Lindh, L. Gagliardi. Automation of Active Space Selection for Multireference Methods via Machine Learning on Chemical Bond Dissociation. [**J. Chem. Theory Comput. 2020.**](https://pubs.acs.org/doi/10.1021/acs.jctc.9b01297) Article ASAP.
