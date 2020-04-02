@@ -4,6 +4,7 @@ A Python code to label data whether the given data point contributes to obtainin
 # Current function
 - Plotting related potential energy curves (PECs)
 - Shifting each PEC with respect to a reference PEC
+- The Hulburt-Hirschfelder (HH) potential energy curve is geneated as the baseline data for comparison with a given data
 - Generating a label code for each data point
 - Saving all related data for PECs
 
