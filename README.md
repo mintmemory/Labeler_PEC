@@ -1,5 +1,5 @@
-# Labeler_ActiveSpace: Automated labeling of CASSCF/CASPT2 data
-A Python code to label CASSCF/CASPT2(or NEVPT2) data whether the given data point contributes to obtaining a good potential energy curve.
+# Labeler_ActiveSpace: Automated labeling of potential energy data
+A Python code to label data whether the given data point contributes to obtaining a good potential energy curve.
 
 # Prerequisites
 
