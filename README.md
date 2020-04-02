@@ -1,4 +1,4 @@
-# Labeler_ActiveSpace: Automated labeling of potential energy data
+# Labeler_ActiveSpace: Automated labeling of potential energy curve (PEC) data
 A Python code to label data whether the given data point contributes to obtaining a good potential energy curve.
 
 # Prerequisites
